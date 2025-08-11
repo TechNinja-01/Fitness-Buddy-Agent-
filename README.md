@@ -4,6 +4,7 @@ The Fitness Buddy AI Agent is an AI-powered virtual assistant designed to act as
 This model understands natural language queries, meaning you can talk to it just like you would with a human trainer — ask it about workout plans, nutrition tips, daily motivation, or progress tracking, and it responds with personalized suggestions.
 
 🎯 Key Capabilities
+
 Personalized Fitness Guidance – Tailors workout and diet recommendations based on user input like age, weight, goals, and preferences.
 
 Interactive Q&A – Users can ask questions like "What’s the best workout for abs?" or "How much protein do I need daily?"
@@ -15,6 +16,7 @@ Motivation & Reminders – Sends friendly reminders for workouts, hydration, and
 Cloud-Powered Intelligence – Uses IBM Cloud’s AI capabilities for fast and accurate responses.
 
 🛠 How It Works
+
 User Input – You type or speak your query in simple English.
 
 Natural Language Understanding – The model processes your request using IBM Granite AI.
@@ -24,6 +26,7 @@ Smart Response Generation – It retrieves the best possible advice or plan base
 Actionable Output – The assistant provides clear, easy-to-follow guidance.
 
 💡 Why This Model?
+
 Accessible on any device with internet access.
 
 No complicated setup — just log in and start chatting.
